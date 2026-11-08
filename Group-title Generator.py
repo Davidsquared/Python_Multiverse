@@ -1,0 +1,8 @@
+print("=====================================")
+print("Welcome to the Group title generator.")
+print("=====================================")
+print("You would be requred to input some values in order to generate your group title.")
+groupLeader = input("Input your Group leader's name: ")
+favouriteColourOfGroupLeader = input("Input your Group Leader's favourite colour: ")
+printf("Your group title is: " + favouriteColourOfGroupLeader + groupLeader)
+print("=====================================")
